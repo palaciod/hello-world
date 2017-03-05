@@ -1,2 +1,3 @@
 # hello-world
-First Git Project(Technically)
+First Git Project(Technically) 
+Trying out github...
